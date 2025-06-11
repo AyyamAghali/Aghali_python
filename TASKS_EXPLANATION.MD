@@ -1,6 +1,6 @@
 # Aghali_python
 
-# task_algorithm
+# 1. task_algorithm
 
 A single Python script that performs three small algorithmic tasks in sequence:
 
@@ -45,7 +45,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()```
 
 
 
@@ -54,11 +54,12 @@ if __name__ == "__main__":
 ![Task in action](ss.png)
 
 
+# 2.
 
-## Given bracket sequence:  "[((())()(())]]"
-Can this sequence be considered correct? 
-If the answer to the previous question is “no”, then what needs to be changed in it to make it correct? 
+# Given bracket sequence:  "[((())()(())]]"
+## Can this sequence be considered correct? 
+## If the answer to the previous question is “no”, then what needs to be changed in it to make it correct? 
 
-# 1. No. In the second parenthesis-group, there are two “(” but three “)”, so at one point you have more closes than opens.
+## 1. No. In the second parenthesis-group, there are two “(” but three “)”, so at one point you have more closes than opens.
 
-# 2. Remove the extra ')' so each opening parenthesis has a matching closer. For example:  [ ((())) (()) ]. Now every prefix has no more ) than (, and the total counts match.
+## 2. Remove the extra ')' so each opening parenthesis has a matching closer. For example:  [ ((())) (()) ]. Now every prefix has no more ) than (, and the total counts match.
