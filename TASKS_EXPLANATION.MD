@@ -10,7 +10,8 @@ A single Python script that performs three small algorithmic tasks in sequence:
 
 # Algorithm: 
 
-``` def main():
+`
+ def main():
     # Part 1: Number check
     try:
         n = int(input("Enter a number: "))
