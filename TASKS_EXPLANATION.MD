@@ -10,7 +10,7 @@ A single Python script that performs three small algorithmic tasks in sequence:
 
 ## Screenshot of program output 
 
-![Task in action](Aghali_python/ss.png)
+![Task in action](ss.png)
 
 
 
