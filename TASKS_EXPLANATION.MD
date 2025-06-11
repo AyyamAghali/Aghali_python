@@ -9,7 +9,7 @@ A single Python script that performs three small algorithmic tasks in sequence:
 3. **Array filter**: Reads a space-separated list of integers and prints those divisible by 3.
 
 # Algorithm: 
-``
+``1
 def main():
     # Part 1: Number check
     try:
@@ -44,8 +44,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-``
+    main()``
 
 
 ## Screenshot of program output 
