@@ -8,8 +8,9 @@ A single Python script that performs three small algorithmic tasks in sequence:
 2. **Name check**: Reads a name and prints “Hello, John” if it matches `John`; otherwise, prints “There is no such name.”  
 3. **Array filter**: Reads a space-separated list of integers and prints those divisible by 3.
 
-# Algorithm: 
-``1
+## Algorithm
+
+```python
 def main():
     # Part 1: Number check
     try:
@@ -44,7 +45,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()``
+    main()
+
 
 
 ## Screenshot of program output 
